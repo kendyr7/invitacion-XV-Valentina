@@ -28,7 +28,7 @@ const dancingScript = Dancing_Script({
 
 export const metadata: Metadata = {
   title: "Mis XV - Invitación",
-  description: "Te invito a celebrar el inicio de una nueva etapa en mi vida, llena de sueños, metas y grandes logros.",
+  description: "Te invito a celebrar el inicio de una nueva etapa en mi vida, llena de sueños, metas y grandes logros...",
 };
 
 export default function RootLayout({
